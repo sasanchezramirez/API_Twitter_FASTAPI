@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "messi@example.com",
+        "first_name": "leo",
+        "last_name": "messi",
+        "birth_date": "2022-10-27",
+        "password": "campeondelmundo"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "santi@example.com",
+        "first_name": "santi",
+        "last_name": "sanchez",
+        "birth_date": "2022-10-27",
+        "password": "elmejortrabajdordelmundo"
+    },
+    {
+        "user_id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+        "email": "chaplin@example.com",
+        "first_name": "chaplin",
+        "last_name": "sanchez",
+        "birth_date": "2022-10-27",
+        "password": "elputoamo"
+    }
+]
